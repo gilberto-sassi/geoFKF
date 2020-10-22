@@ -5,12 +5,11 @@ Authors@R:
     person(given = "Gilberto",
            family = "Sassi",
            role = c("aut", "cre"),
-           email = "sassi.pereira.gilberto@gmail.com",
-           comment = c(ORCID = "000-0002-7779-2398"))
+           email = "sassi.pereira.gilberto@gmail.com")
+Maintainer: Gilberto Sassi <sassi.pereira.gilberto@gmail.com>
 Description: A kriging method for georeferenced functional datasets using
     Fourier series.
 Imports:
-    magrittr,
     numDeriv,
     stats,
     Rcpp
